@@ -1,0 +1,13 @@
+.ant-table-thead .ant-table-cell {
+    background-color: white !important;
+    font-weight: 500 !important;
+    font-size: 0.900em ;
+    text-align: center !important;
+    color:#4F575E !important;
+    }
+    .ant-table-tbody .ant-table-cell {
+        color: #718096 !important;
+        font-size: 0.900em ;
+        font-weight: 400 !important;
+        text-align: center !important;
+    }
